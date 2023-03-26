@@ -1,0 +1,69 @@
+.navbar-nav{
+    text-align: right;
+}
+.navbar .navbar-nav .nav-link{
+    padding-right: 3em;
+}
+
+
+.accordion {
+    background-color:
+    color: white;
+    padding: 18px;
+    width: 100%;
+    text-align: center;
+    border: 1px solid white;
+    outline: none;
+    transition: 0.2s;
+    font-size: 20px;
+  }
+  .active, .accordion:hover {
+    background-color: green;
+    color: white;
+  }
+  .panel {
+    padding: 0 18px;
+    background-color: green;
+    color: white;
+    display: none;
+    overflow: hidden;
+    text-align: center;
+  }
+
+  .flexContainer {
+    display: flex;
+    padding: 40px 10px;
+  }
+  .flexContainer div {
+    width: 33%;
+    padding: 25px;
+  }
+
+.display-10 {
+  font-size: 30px;
+}
+
+.jumbotron {
+  padding-top: 4rem;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.researchconduct {
+  padding-top: 3rem;
+}
+
+.jumbotron jumbrotron-fluid {
+  padding-top: 1rem;
+}
+
+.container {
+  padding-top:4rem;
+}
+
+.row {
+  padding-top: 4rem;
+}
+
+.jumbotron jumbotron-fluid2 {
+  padding-top: 3rem;
+}
