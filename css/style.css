@@ -3,6 +3,7 @@
 }
 .navbar .navbar-nav .nav-link{
     padding-right: 3em;
+    background-color: white;
 }
 
 
@@ -18,12 +19,12 @@
     font-size: 20px;
   }
   .active, .accordion:hover {
-    background-color: green;
+    background-color: #51863d;
     color: white;
   }
   .panel {
     padding: 0 18px;
-    background-color: green;
+    background-color:
     color: white;
     display: none;
     overflow: hidden;
@@ -41,6 +42,11 @@
 
 .display-10 {
   font-size: 30px;
+  color: #035e3c;
+}
+
+.display-2 {
+  color: #035e3c;
 }
 
 .jumbotron {
@@ -67,3 +73,11 @@
 .jumbotron jumbotron-fluid2 {
   padding-top: 3rem;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
